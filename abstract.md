@@ -1,2 +1,3 @@
 # hailtheworld-ingenius
 Develop an analytical model embedded in a website to assist hospitals in determining their ventilator requirements for COVID-19 patients during future periods of the pandemic. Use machine learning to predict chances of a COVID-19 patient needing a ventilator. Make use of conditions of the patient such as age, heart conditions, asthma, hypertension, etc. Find out what are the factors most affecting ventilator needs for a COVID-19 patient. Prediction used in making adequate preparations in hospitals before-hand and obtaining the necessary number of ventilators.
+https://drive.google.com/file/d/1Xosflb8rFvBQ7LC4nXUQXTZeaDBBUTZA/view?usp=sharing link for video
